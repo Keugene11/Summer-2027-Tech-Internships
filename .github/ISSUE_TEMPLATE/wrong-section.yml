@@ -1,0 +1,36 @@
+name: 🏷️ Wrong classification
+description: A role is in the wrong category, or shouldn't be on this list at all.
+title: "[Classification] "
+labels: ["classification"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Roles are sorted by job title, which gets the edges wrong. Reports are how the rules improve.
+  - type: input
+    id: role
+    attributes:
+      label: Company and role, as the table shows it
+      placeholder: RTX — Systems Engineering Co-op
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What's wrong
+      options:
+        - It's in the wrong category
+        - It isn't a tech role and shouldn't be listed
+        - It isn't an internship / isn't entry-level
+        - It's a duplicate
+        - The link is dead but the role is still open
+        - Something else
+    validations:
+      required: true
+  - type: input
+    id: should
+    attributes:
+      label: Where should it be instead?
+      placeholder: Hardware Engineering — it's avionics, not software
+    validations:
+      required: false

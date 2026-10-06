@@ -1,0 +1,48 @@
+name: Refresh listings
+
+# Understudy re-crawls the boards continuously; this is just how often the published tables catch up.
+# Every four hours, offset off the hour so it isn't competing with everybody else's cron.
+on:
+  schedule:
+    - cron: "17 */4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    # Pinned, not ubuntu-latest: an image that moves on GitHub's schedule is an outage on someone else's calendar.
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Fetch the rendered list
+        run: |
+          set -euo pipefail
+          curl --fail --silent --show-error                --retry 4 --retry-delay 15 --retry-all-errors                --max-time 240                -H 'accept: application/json'                'https://understudy.live/api/lists?kind=intern' -o payload.json
+          wc -c payload.json
+
+      # Every check lives in apply.mjs: a short readme, too few listings, or a list that halved since the last
+      # run all fail here instead of being committed over a good README.
+      - name: Apply it
+        run: node .github/scripts/apply.mjs intern payload.json
+
+      - name: Commit if anything changed
+        run: |
+          set -euo pipefail
+          rm -f payload.json
+          git config user.name  'understudy-bot'
+          git config user.email 'bot@understudy.live'
+          if git diff --quiet -- README.md .github/scripts/listings.json README-Off-Season.md 2>/dev/null; then
+            echo 'no change'
+            exit 0
+          fi
+          COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('.github/scripts/listings.json','utf8')).length)")
+          git add README.md .github/scripts/listings.json README-Off-Season.md 2>/dev/null || git add README.md .github/scripts/listings.json
+          git commit -m "Internships: $COUNT open roles ($(date -u '+%Y-%m-%d %H:%M') UTC)"
+          git push

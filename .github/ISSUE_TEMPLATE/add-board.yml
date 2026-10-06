@@ -1,0 +1,36 @@
+name: 🏢 Add a company board
+description: A company is missing. Add their job board and everything they post appears automatically.
+title: "[Board] "
+labels: ["board"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The list is generated from company job boards, so adding the **board** is better than adding one role —
+        it catches every posting they make from now on, not just today's.
+  - type: input
+    id: company
+    attributes:
+      label: Company name
+      placeholder: Brevium
+    validations:
+      required: true
+  - type: input
+    id: board
+    attributes:
+      label: Link to their job board
+      description: >
+        The board itself, not a single posting. Readable boards look like
+        job-boards.greenhouse.io/COMPANY, jobs.lever.co/COMPANY, jobs.ashbyhq.com/COMPANY,
+        apply.workable.com/COMPANY, jobs.smartrecruiters.com/COMPANY, COMPANY.recruitee.com,
+        ats.rippling.com/COMPANY or COMPANY.wdN.myworkdayjobs.com/SITE.
+      placeholder: https://job-boards.greenhouse.io/brevium
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      placeholder: They post new-grad roles every January, and the board is easy to miss because it's linked from the footer.
+    validations:
+      required: false

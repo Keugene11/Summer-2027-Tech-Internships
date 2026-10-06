@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🤖 Apply to these automatically
+    url: https://understudy.live/?utm_source=ghlist&utm_medium=issuetemplate
+    about: Understudy fills in and submits these applications for you, from your own browser.
+  - name: 💻 The code that generates this list
+    url: https://github.com/Keugene11/understudy
+    about: The crawler, the classifier and the endpoint this repo refreshes from.
