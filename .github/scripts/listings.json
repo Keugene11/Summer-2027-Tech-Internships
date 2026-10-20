@@ -1,5 +1,29 @@
 [
  {
+  "id": "workday-zebra|zebra_careers-jr103640",
+  "company_name": "Zebra Technologies",
+  "title": "2027 Summer Internship (US) - Supplies & Sensors Product Manager",
+  "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Lincolnshire, Illinois"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1792515445,
+  "date_updated": 1792526466,
+  "category": "pm",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "source": {
+   "ats": "workday",
+   "board": "zebra|Zebra_careers",
+   "job_id": "JR103640"
+  },
+  "understudy_url": "https://understudy.live/apply/15867077?utm_source=ghlist&utm_medium=row"
+ },
+ {
   "id": "oracle-jpmc.fa.oraclecloud.com|cx_1001-210801790",
   "company_name": "JP Morgan Chase",
   "title": "2027 Machine Learning Center of Excellence (NLP) - Summer Associate",
@@ -10,7 +34,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792497600,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -24,30 +48,6 @@
   "understudy_url": "https://understudy.live/apply/15806959?utm_source=ghlist&utm_medium=row"
  },
  {
-  "id": "workday-verizon|verizon-careers-r-1102417",
-  "company_name": "Verizon",
-  "title": "Basking Ridge, NJ: VTeamer for a Day: Verizon Consumer Group: Data Science Summer 2027 Internship",
-  "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Basking Ridge, New Jersey"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1792482392,
-  "date_updated": 1792503308,
-  "category": "data",
-  "terms": [
-   "Summer 2027"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "verizon|verizon-careers",
-   "job_id": "R-1102417"
-  },
-  "understudy_url": "https://understudy.live/apply/15857498?utm_source=ghlist&utm_medium=row"
- },
- {
   "id": "workday-verizon|verizon-careers-r-1102419",
   "company_name": "Verizon",
   "title": "Verizon Consumer Group: Data Science Summer 2027 Internship",
@@ -58,7 +58,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792482392,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -72,6 +72,30 @@
   "understudy_url": "https://understudy.live/apply/15857500?utm_source=ghlist&utm_medium=row"
  },
  {
+  "id": "workday-verizon|verizon-careers-r-1102417",
+  "company_name": "Verizon",
+  "title": "Basking Ridge, NJ: VTeamer for a Day: Verizon Consumer Group: Data Science Summer 2027 Internship",
+  "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Basking Ridge, New Jersey"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1792482392,
+  "date_updated": 1792526466,
+  "category": "data",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "source": {
+   "ats": "workday",
+   "board": "verizon|verizon-careers",
+   "job_id": "R-1102417"
+  },
+  "understudy_url": "https://understudy.live/apply/15857498?utm_source=ghlist&utm_medium=row"
+ },
+ {
   "id": "workday-alcoa|careers-req-39523",
   "company_name": "Alcoa",
   "title": "Vocational Placement – Electrical Engineer",
@@ -82,7 +106,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792465328,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -106,7 +130,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792462092,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -130,7 +154,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792462034,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -154,7 +178,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792461935,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -178,7 +202,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792460895,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -202,7 +226,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792460895,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -226,7 +250,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792459927,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -250,7 +274,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792459927,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -274,7 +298,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792458324,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Summer 2027"
@@ -298,7 +322,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792458311,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -322,7 +346,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792458311,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -346,7 +370,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792458310,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -370,7 +394,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792458295,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -394,7 +418,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792458261,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -418,7 +442,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792458221,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Unspecified"
@@ -442,7 +466,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792458221,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -466,7 +490,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792458220,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -490,7 +514,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792455410,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -514,7 +538,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792455410,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -538,7 +562,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792455410,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -562,7 +586,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792455372,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -586,7 +610,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792454716,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -610,7 +634,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792454586,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -634,7 +658,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792454586,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -658,7 +682,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792454586,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -682,7 +706,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792454585,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -696,6 +720,126 @@
   "understudy_url": "https://understudy.live/apply/15746946?utm_source=ghlist&utm_medium=row"
  },
  {
+  "id": "workday-cbrands|cbi_external_careers-r-41526",
+  "company_name": "Constellation Brands",
+  "title": "AI Enablement Intern",
+  "url": "https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Intern--AI-Enablement_R-41526?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Rochester, NY"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1792454400,
+  "date_updated": 1792526466,
+  "category": "data",
+  "terms": [
+   "Unspecified"
+  ],
+  "degrees": [],
+  "source": {
+   "ats": "workday",
+   "board": "cbrands|CBI_External_Careers",
+   "job_id": "R-41526"
+  },
+  "understudy_url": "https://understudy.live/apply/15865858?utm_source=ghlist&utm_medium=row"
+ },
+ {
+  "id": "workday-globalhr|rec_rtx_ext_gateway-01883545",
+  "company_name": "RTX",
+  "title": "Software Engineer Co-op",
+  "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Richardson, TX"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1792454400,
+  "date_updated": 1792526466,
+  "category": "swe",
+  "terms": [
+   "Unspecified"
+  ],
+  "degrees": [],
+  "source": {
+   "ats": "workday",
+   "board": "globalhr|rec_rtx_ext_gateway",
+   "job_id": "01883545"
+  },
+  "understudy_url": "https://understudy.live/apply/15865859?utm_source=ghlist&utm_medium=row"
+ },
+ {
+  "id": "workday-globalhr|rec_rtx_ext_gateway-01883452",
+  "company_name": "RTX",
+  "title": "Software Engineer Co-op",
+  "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Aurora, CO"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1792454400,
+  "date_updated": 1792526466,
+  "category": "swe",
+  "terms": [
+   "Unspecified"
+  ],
+  "degrees": [],
+  "source": {
+   "ats": "workday",
+   "board": "globalhr|rec_rtx_ext_gateway",
+   "job_id": "01883452"
+  },
+  "understudy_url": "https://understudy.live/apply/15865860?utm_source=ghlist&utm_medium=row"
+ },
+ {
+  "id": "workday-ciena|careers-r031926",
+  "company_name": "Ciena",
+  "title": "Software Engineer Intern - Security",
+  "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Atlanta, GA"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1792454400,
+  "date_updated": 1792526466,
+  "category": "swe",
+  "terms": [
+   "Unspecified"
+  ],
+  "degrees": [],
+  "source": {
+   "ats": "workday",
+   "board": "ciena|Careers",
+   "job_id": "R031926"
+  },
+  "understudy_url": "https://understudy.live/apply/15865861?utm_source=ghlist&utm_medium=row"
+ },
+ {
+  "id": "workday-allstate|sourcing_event-r36266",
+  "company_name": "Allstate",
+  "title": "Software Engineer Intern",
+  "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "North Carolina"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1792454400,
+  "date_updated": 1792526466,
+  "category": "swe",
+  "terms": [
+   "Unspecified"
+  ],
+  "degrees": [],
+  "source": {
+   "ats": "workday",
+   "board": "allstate|sourcing_event",
+   "job_id": "R36266"
+  },
+  "understudy_url": "https://understudy.live/apply/15865863?utm_source=ghlist&utm_medium=row"
+ },
+ {
   "id": "greenhouse-rocketlab-8007202003",
   "company_name": "Rocket Lab",
   "title": "Ground Systems Engineering Intern Summer 2027",
@@ -706,7 +850,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792453889,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -730,7 +874,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792453658,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -754,7 +898,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792451355,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -779,7 +923,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792449249,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -803,7 +947,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792448478,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -827,7 +971,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792448198,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "quant",
   "terms": [
    "Unspecified"
@@ -851,7 +995,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792447489,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -875,7 +1019,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792446614,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -899,7 +1043,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792446274,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Unspecified"
@@ -923,7 +1067,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792445700,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -947,7 +1091,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792445518,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -971,7 +1115,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792444610,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -995,7 +1139,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792444610,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -1022,7 +1166,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792444560,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -1046,7 +1190,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792443783,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -1074,7 +1218,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792443752,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Summer 2027"
@@ -1098,7 +1242,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792443699,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -1122,7 +1266,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792443679,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -1146,7 +1290,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792443607,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -1170,7 +1314,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792443344,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -1194,7 +1338,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792441961,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -1221,7 +1365,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792441487,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -1248,7 +1392,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792440147,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -1272,7 +1416,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792439161,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -1296,7 +1440,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792438288,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -1320,7 +1464,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792437391,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -1344,7 +1488,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792437357,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -1369,7 +1513,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792437240,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -1393,7 +1537,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792437199,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Unspecified"
@@ -1417,7 +1561,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792437137,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -1441,7 +1585,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792437128,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -1465,7 +1609,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792437118,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -1489,7 +1633,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792437109,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -1513,7 +1657,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792437101,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -1537,7 +1681,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792437079,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -1561,7 +1705,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792436647,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -1585,7 +1729,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792436637,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Summer 2027"
@@ -1609,7 +1753,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792436631,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Summer 2027"
@@ -1633,7 +1777,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792436617,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -1657,7 +1801,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792436613,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -1681,7 +1825,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792436598,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -1705,7 +1849,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792436587,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -1730,7 +1874,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792436040,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -1758,7 +1902,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792435320,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -1785,7 +1929,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792434610,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -1811,7 +1955,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792434340,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -1839,7 +1983,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792434197,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -1863,7 +2007,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792432942,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -1887,7 +2031,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792432679,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -1911,7 +2055,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792432490,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -1935,7 +2079,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792431821,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -1959,7 +2103,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792431201,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -1983,7 +2127,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792431162,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -2007,7 +2151,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792430238,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -2031,7 +2175,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792430100,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -2055,7 +2199,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792429540,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -2079,7 +2223,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792429381,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -2103,7 +2247,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792429346,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -2127,7 +2271,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792429117,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -2141,6 +2285,54 @@
   "understudy_url": "https://understudy.live/apply/15522036?utm_source=ghlist&utm_medium=row"
  },
  {
+  "id": "workday-zebra|zebra_careers-jr103625",
+  "company_name": "Zebra Technologies",
+  "title": "2027 Summer Internship (US) - Software Engineer",
+  "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Holtsville, New York"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1792429045,
+  "date_updated": 1792526466,
+  "category": "swe",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "source": {
+   "ats": "workday",
+   "board": "zebra|Zebra_careers",
+   "job_id": "JR103625"
+  },
+  "understudy_url": "https://understudy.live/apply/15867086?utm_source=ghlist&utm_medium=row"
+ },
+ {
+  "id": "workday-caa|campus-jr9391-1",
+  "company_name": "CAA",
+  "title": "CAA ICON Data Analytics Intern – Summer 2027 (Denver, CO)",
+  "url": "https://caa.wd1.myworkdayjobs.com/campus/job/Denver-CO/CAA-ICON-Data-Analytics-Intern---Summer-2027--Denver--CO-_JR9391-1?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Denver, CO"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1792429030,
+  "date_updated": 1792526466,
+  "category": "data",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "source": {
+   "ats": "workday",
+   "board": "caa|campus",
+   "job_id": "JR9391-1"
+  },
+  "understudy_url": "https://understudy.live/apply/15866479?utm_source=ghlist&utm_medium=row"
+ },
+ {
   "id": "workday-alliance|nissanjobs-r00214225",
   "company_name": "Alliance",
   "title": "Applied AI & Business Innovation Intern - Summer 2027 - Franklin, TN",
@@ -2151,7 +2343,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792428413,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -2175,7 +2367,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792426637,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -2199,7 +2391,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792426563,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "quant",
   "terms": [
    "Unspecified"
@@ -2223,7 +2415,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792425714,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -2247,7 +2439,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792425600,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Unspecified"
@@ -2271,7 +2463,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792425503,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -2298,7 +2490,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792424795,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -2325,7 +2517,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792423685,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -2349,7 +2541,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792422996,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -2373,7 +2565,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792422935,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -2397,7 +2589,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792422775,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Unspecified"
@@ -2421,7 +2613,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792422168,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -2445,7 +2637,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792420453,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -2469,7 +2661,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792420453,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -2493,7 +2685,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792419460,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -2517,7 +2709,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792417542,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -2541,7 +2733,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792417175,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -2565,7 +2757,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792414581,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -2589,7 +2781,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792411200,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -2613,7 +2805,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792411200,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -2637,7 +2829,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792411200,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -2661,7 +2853,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792411200,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -2688,7 +2880,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792402460,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "quant",
   "terms": [
    "Summer 2027"
@@ -2710,7 +2902,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792399560,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -2734,7 +2926,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792389057,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -2758,7 +2950,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792382500,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -2782,7 +2974,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792368000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -2806,7 +2998,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792368000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -2830,7 +3022,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792368000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -2855,7 +3047,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792368000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -2869,33 +3061,6 @@
   "understudy_url": "https://understudy.live/apply/15744187?utm_source=ghlist&utm_medium=row"
  },
  {
-  "id": "workday-intel|en-us-jr0288170",
-  "company_name": "Intel",
-  "title": "Software Applications Engineering PhD Intern",
-  "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Cloud-Analytics---Application-PhD-Intern_JR0288170?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Hillsboro, OR"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1792368000,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [
-   "Master's",
-   "PhD"
-  ],
-  "source": {
-   "ats": "workday",
-   "board": "intel|en-us",
-   "job_id": "JR0288170"
-  },
-  "understudy_url": "https://understudy.live/apply/15744188?utm_source=ghlist&utm_medium=row"
- },
- {
   "id": "workday-qtsdatacenters|qts-r2026-2307",
   "company_name": "Qtsdatacenters",
   "title": "Summer 2027 Internship: People Services Data Analytics",
@@ -2906,7 +3071,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792368000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -2930,7 +3095,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792368000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -2954,7 +3119,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792368000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -2966,6 +3131,30 @@
    "job_id": "446721636765"
   },
   "understudy_url": "https://understudy.live/apply/15843718?utm_source=ghlist&utm_medium=row"
+ },
+ {
+  "id": "workday-elkay|elkay_external-req-020065",
+  "company_name": "Zurn Elkay Water Solutions",
+  "title": "Product Management Intern",
+  "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Downers Grove, IL"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1792368000,
+  "date_updated": 1792526466,
+  "category": "pm",
+  "terms": [
+   "Unspecified"
+  ],
+  "degrees": [],
+  "source": {
+   "ats": "workday",
+   "board": "elkay|Elkay_External",
+   "job_id": "REQ-020065"
+  },
+  "understudy_url": "https://understudy.live/apply/15744206?utm_source=ghlist&utm_medium=row"
  },
  {
   "id": "workday-highmarkhealth|highmark-j287175",
@@ -3025,7 +3214,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792368000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -3039,30 +3228,6 @@
   "understudy_url": "https://understudy.live/apply/15744184?utm_source=ghlist&utm_medium=row"
  },
  {
-  "id": "workday-elkay|elkay_external-req-020065",
-  "company_name": "Zurn Elkay Water Solutions",
-  "title": "Product Management Intern",
-  "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Downers Grove, IL"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1792368000,
-  "date_updated": 1792503308,
-  "category": "pm",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "elkay|Elkay_External",
-   "job_id": "REQ-020065"
-  },
-  "understudy_url": "https://understudy.live/apply/15744206?utm_source=ghlist&utm_medium=row"
- },
- {
   "id": "greenhouse-eulerity-4722871006",
   "company_name": "Eulerity",
   "title": "AI Intern - Office of CEO & Head of Product",
@@ -3073,7 +3238,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792267681,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -3097,7 +3262,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792256558,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -3121,7 +3286,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792206247,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -3145,7 +3310,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792206228,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -3169,7 +3334,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792196206,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -3193,7 +3358,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792195388,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -3217,7 +3382,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792195388,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -3241,7 +3406,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792195387,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -3265,7 +3430,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792191673,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -3289,7 +3454,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792189445,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -3313,7 +3478,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792188991,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "quant",
   "terms": [
    "Unspecified"
@@ -3337,7 +3502,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792186740,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -3361,7 +3526,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792186740,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -3385,7 +3550,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792186320,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -3409,7 +3574,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792185497,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -3433,7 +3598,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792185435,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -3457,7 +3622,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792184985,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -3481,7 +3646,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792184539,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -3505,7 +3670,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792184527,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -3529,7 +3694,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792184527,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -3553,7 +3718,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792184527,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -3577,7 +3742,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792184527,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -3601,7 +3766,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792184527,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -3625,7 +3790,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792184524,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -3649,7 +3814,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792184503,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -3673,7 +3838,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792184501,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -3697,7 +3862,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792184501,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -3721,7 +3886,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792184489,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -3745,7 +3910,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792184489,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -3769,7 +3934,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792184457,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -3793,7 +3958,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792184457,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -3817,7 +3982,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792183658,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -3841,7 +4006,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792183633,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -3865,7 +4030,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792183629,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -3889,7 +4054,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792183596,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -3913,7 +4078,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792183302,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Summer 2027"
@@ -3937,7 +4102,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792179990,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Unspecified"
@@ -3961,7 +4126,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792178940,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Summer 2027"
@@ -3985,7 +4150,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792177866,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -4009,7 +4174,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792174500,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -4033,7 +4198,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792173993,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -4058,7 +4223,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792172135,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -4083,7 +4248,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792172059,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -4107,7 +4272,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792170660,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -4131,7 +4296,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792167875,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -4155,7 +4320,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792166969,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -4179,7 +4344,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792164595,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -4203,7 +4368,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792159644,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -4227,7 +4392,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792152000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -4251,7 +4416,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792152000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -4275,7 +4440,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792152000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -4289,30 +4454,6 @@
   "understudy_url": "https://understudy.live/apply/14855218?utm_source=ghlist&utm_medium=row"
  },
  {
-  "id": "oracle-ejia.fa.us6.oraclecloud.com|cx_1001-107307",
-  "company_name": "S&C Electric Company",
-  "title": "Software Engineer Co-Op",
-  "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107307?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Chicago, IL, United States"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1792152000,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "oracle",
-   "board": "ejia.fa.us6.oraclecloud.com|CX_1001",
-   "job_id": "107307"
-  },
-  "understudy_url": "https://understudy.live/apply/14973437?utm_source=ghlist&utm_medium=row"
- },
- {
   "id": "oracle-emit.fa.ca3.oraclecloud.com|cx_2001-96761",
   "company_name": "WSP",
   "title": "Electrical Engineering (Renewable Transmission Interconnections) Intern – Summer 2027",
@@ -4323,7 +4464,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792152000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -4337,6 +4478,30 @@
   "understudy_url": "https://understudy.live/apply/14976589?utm_source=ghlist&utm_medium=row"
  },
  {
+  "id": "oracle-ejia.fa.us6.oraclecloud.com|cx_1001-107307",
+  "company_name": "S&C Electric Company",
+  "title": "Software Engineer Co-Op",
+  "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107307?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Chicago, IL, United States"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1792152000,
+  "date_updated": 1792526466,
+  "category": "swe",
+  "terms": [
+   "Unspecified"
+  ],
+  "degrees": [],
+  "source": {
+   "ats": "oracle",
+   "board": "ejia.fa.us6.oraclecloud.com|CX_1001",
+   "job_id": "107307"
+  },
+  "understudy_url": "https://understudy.live/apply/14973437?utm_source=ghlist&utm_medium=row"
+ },
+ {
   "id": "eightfold-eaton-687239705382",
   "company_name": "Eaton",
   "title": "Apprentice. IT. Development Program",
@@ -4347,7 +4512,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792150623,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -4369,7 +4534,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792146360,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -4393,7 +4558,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792125097,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -4417,7 +4582,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792116347,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -4441,7 +4606,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792116145,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -4465,7 +4630,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792115138,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -4489,7 +4654,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792115138,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -4513,7 +4678,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792113833,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -4537,7 +4702,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792112718,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -4561,7 +4726,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792111535,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -4585,7 +4750,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792109240,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -4609,7 +4774,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792109069,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -4623,34 +4788,6 @@
   "understudy_url": "https://understudy.live/apply/14626859?utm_source=ghlist&utm_medium=row"
  },
  {
-  "id": "workday-jj|jj-r-103933",
-  "company_name": "JJ",
-  "title": "Summer Intern - Digital Signal/ Imaging AI",
-  "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cambridge-Massachusetts-United-States-of-America/Summer-intern--Digital-Signal--Imaging-AI_R-103933?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Cambridge, MA",
-   "Zug, Switzerland",
-   "Leiden, Netherlands",
-   "La Jolla, San Diego, CA",
-   "Hopewell Township, NJ"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1792108800,
-  "date_updated": 1792503308,
-  "category": "data",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "jj|JJ",
-   "job_id": "R-103933"
-  },
-  "understudy_url": "https://understudy.live/apply/14805171?utm_source=ghlist&utm_medium=row"
- },
- {
   "id": "workday-lighting|jobs-and-careers-366726",
   "company_name": "Lighting",
   "title": "Electrical Engineer Intern",
@@ -4661,7 +4798,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792108800,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -4685,7 +4822,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792108800,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -4709,7 +4846,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792108800,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -4733,7 +4870,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792108023,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -4757,7 +4894,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792107129,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -4781,7 +4918,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792106104,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -4805,7 +4942,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792105795,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -4829,7 +4966,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792105723,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -4853,7 +4990,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792104393,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -4877,7 +5014,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792103769,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Unspecified"
@@ -4905,7 +5042,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792103768,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -4930,7 +5067,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792103768,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -4957,7 +5094,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792102800,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -4981,7 +5118,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792102307,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -5005,7 +5142,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792102273,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Unspecified"
@@ -5029,7 +5166,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792100806,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -5053,7 +5190,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792100752,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -5077,7 +5214,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792098660,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -5101,7 +5238,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792098509,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -5125,7 +5262,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792098486,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Unspecified"
@@ -5149,7 +5286,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792098090,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -5173,7 +5310,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792098090,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -5200,7 +5337,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792098090,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -5227,7 +5364,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792098090,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -5254,7 +5391,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792098090,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -5281,7 +5418,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792098090,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -5308,7 +5445,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792097345,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -5332,7 +5469,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792097343,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -5356,7 +5493,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792097297,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -5380,7 +5517,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792097297,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -5404,7 +5541,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792097289,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -5428,7 +5565,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792097286,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -5452,7 +5589,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792097272,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Summer 2027"
@@ -5479,7 +5616,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792097270,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -5503,7 +5640,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792097250,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -5527,7 +5664,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792097249,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -5551,7 +5688,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792097249,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -5575,7 +5712,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792097200,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -5602,7 +5739,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792096897,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -5626,7 +5763,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792096780,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -5650,7 +5787,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792096627,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -5674,7 +5811,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792096627,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Summer 2027"
@@ -5698,7 +5835,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792096627,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -5712,30 +5849,6 @@
   "understudy_url": "https://understudy.live/apply/14499319?utm_source=ghlist&utm_medium=row"
  },
  {
-  "id": "workday-dover|dover-jr101948",
-  "company_name": "Dover Corporation",
-  "title": "Product Management Intern, Aftermarket Parts",
-  "url": "https://dover.wd103.myworkdayjobs.com/Dover/job/Conyers-Georgia-USA/Product-Management-Intern--Aftermarket-Parts_JR101948?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Conyers, Georgia, USA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1792096615,
-  "date_updated": 1792503308,
-  "category": "pm",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "dover|Dover",
-   "job_id": "JR101948"
-  },
-  "understudy_url": "https://understudy.live/apply/14497640?utm_source=ghlist&utm_medium=row"
- },
- {
   "id": "workday-dover|dover-jr102326",
   "company_name": "Dover Corporation",
   "title": "Product Management Intern",
@@ -5746,7 +5859,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792096615,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Unspecified"
@@ -5760,6 +5873,30 @@
   "understudy_url": "https://understudy.live/apply/14497632?utm_source=ghlist&utm_medium=row"
  },
  {
+  "id": "workday-dover|dover-jr101948",
+  "company_name": "Dover Corporation",
+  "title": "Product Management Intern, Aftermarket Parts",
+  "url": "https://dover.wd103.myworkdayjobs.com/Dover/job/Conyers-Georgia-USA/Product-Management-Intern--Aftermarket-Parts_JR101948?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Conyers, Georgia, USA"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1792096615,
+  "date_updated": 1792526466,
+  "category": "pm",
+  "terms": [
+   "Unspecified"
+  ],
+  "degrees": [],
+  "source": {
+   "ats": "workday",
+   "board": "dover|Dover",
+   "job_id": "JR101948"
+  },
+  "understudy_url": "https://understudy.live/apply/14497640?utm_source=ghlist&utm_medium=row"
+ },
+ {
   "id": "workday-globalhr|rec_rtx_ext_gateway-01874282",
   "company_name": "RTX",
   "title": "Software Engineer Intern",
@@ -5770,7 +5907,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792096595,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -5794,7 +5931,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792096594,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -5818,7 +5955,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792096593,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -5842,7 +5979,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792096593,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -5866,7 +6003,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792096592,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -5890,7 +6027,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792096591,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -5914,7 +6051,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792094411,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -5939,7 +6076,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792094401,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -5967,7 +6104,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792094401,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -5991,7 +6128,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792089519,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -6015,7 +6152,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792089005,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -6039,7 +6176,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792088740,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -6063,7 +6200,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792085654,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -6087,7 +6224,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792084600,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Summer 2027"
@@ -6111,7 +6248,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792083480,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -6135,7 +6272,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792074960,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -6159,7 +6296,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792065600,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -6183,7 +6320,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792065600,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -6207,7 +6344,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792046786,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -6231,7 +6368,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792045041,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -6255,7 +6392,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792045012,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Summer 2027"
@@ -6279,7 +6416,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792045012,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Summer 2027"
@@ -6303,7 +6440,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792044999,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -6327,7 +6464,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792044999,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -6351,7 +6488,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792040610,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -6375,7 +6512,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792030249,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -6399,7 +6536,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792023012,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Unspecified"
@@ -6423,7 +6560,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792022400,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Unspecified"
@@ -6450,7 +6587,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792017153,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -6475,7 +6612,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792016953,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -6499,7 +6636,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792016849,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -6523,7 +6660,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792015976,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -6547,7 +6684,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792012974,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -6571,7 +6708,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792012958,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -6595,7 +6732,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792011666,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -6619,7 +6756,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792006581,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Summer 2027"
@@ -6643,7 +6780,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792006516,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Summer 2027"
@@ -6667,7 +6804,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792006222,
-  "date_updated": 1792503308,
+  "date_updated": 1792526466,
   "category": "pm",
   "terms": [
    "Summer 2027"
@@ -6691,7 +6828,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792006221,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -6715,7 +6852,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792006221,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "pm",
   "terms": [
    "Summer 2027"
@@ -6739,7 +6876,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792004922,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -6763,7 +6900,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792004595,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -6787,7 +6924,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792002737,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -6811,7 +6948,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792002668,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -6835,7 +6972,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792002668,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -6859,7 +6996,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792002668,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -6883,7 +7020,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792002668,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -6907,7 +7044,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792002668,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -6931,7 +7068,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792001884,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -6955,7 +7092,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792001843,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -6979,7 +7116,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792001811,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -7003,7 +7140,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792001809,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "pm",
   "terms": [
    "Summer 2027"
@@ -7027,7 +7164,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792001747,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -7051,7 +7188,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792001747,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -7075,7 +7212,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792000969,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -7099,7 +7236,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792000883,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -7121,7 +7258,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792000286,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -7145,7 +7282,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792000190,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "pm",
   "terms": [
    "Summer 2027"
@@ -7169,7 +7306,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1792000153,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -7193,7 +7330,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791994932,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -7215,7 +7352,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791994620,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -7237,7 +7374,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791994620,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -7261,7 +7398,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791994080,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -7285,7 +7422,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791993051,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -7309,7 +7446,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791992700,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -7333,7 +7470,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791992291,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -7357,7 +7494,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791990701,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -7381,7 +7518,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791989880,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -7405,7 +7542,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791987660,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -7432,7 +7569,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791987659,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -7456,7 +7593,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791979200,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -7480,7 +7617,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791979200,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -7504,7 +7641,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791979200,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -7528,7 +7665,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791972269,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -7552,7 +7689,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791968818,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -7576,7 +7713,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791968752,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -7600,7 +7737,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791957810,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -7624,7 +7761,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791950789,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -7648,7 +7785,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791950723,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -7672,7 +7809,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791950723,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -7696,7 +7833,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791950654,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -7720,7 +7857,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791945047,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "pm",
   "terms": [
    "Summer 2027"
@@ -7744,7 +7881,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791939944,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -7768,7 +7905,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791939944,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -7792,7 +7929,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791939835,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -7816,7 +7953,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791939814,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -7840,7 +7977,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791939732,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -7864,7 +8001,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791938061,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -7888,7 +8025,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791937861,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -7912,7 +8049,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791937861,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -7936,7 +8073,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791937623,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -7960,7 +8097,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791937496,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -7984,7 +8121,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791937491,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -8008,7 +8145,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791937451,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -8032,7 +8169,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791937437,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "hardware",
   "terms": [
    "Unspecified"
@@ -8065,7 +8202,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791936000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -8089,7 +8226,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791936000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -8113,7 +8250,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791936000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -8137,7 +8274,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791936000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -8161,7 +8298,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791936000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "pm",
   "terms": [
    "Summer 2027"
@@ -8189,7 +8326,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791936000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -8213,7 +8350,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791936000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -8237,7 +8374,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791936000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -8261,7 +8398,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791936000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -8285,7 +8422,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791936000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -8299,6 +8436,30 @@
   "understudy_url": "https://understudy.live/apply/14370208?utm_source=ghlist&utm_medium=row"
  },
  {
+  "id": "workday-icf|icfexternal_career_site-r2603522",
+  "company_name": "ICF",
+  "title": "2027 Summer Intern, Software Engineer (Reston, VA)",
+  "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Engineer--Reston--VA-_R2603522?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Reston, VA"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1791936000,
+  "date_updated": 1792526467,
+  "category": "swe",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "source": {
+   "ats": "workday",
+   "board": "icf|icfexternal_career_site",
+   "job_id": "R2603522"
+  },
+  "understudy_url": "https://understudy.live/apply/14365326?utm_source=ghlist&utm_medium=row"
+ },
+ {
   "id": "workday-gevernova|vernova_externalsite-r5054822-2",
   "company_name": "Gevernova",
   "title": "AI Post-Training and Model Alignment Intern",
@@ -8309,7 +8470,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791936000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -8333,7 +8494,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791936000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -8347,54 +8508,6 @@
   "understudy_url": "https://understudy.live/apply/14269295?utm_source=ghlist&utm_medium=row"
  },
  {
-  "id": "workday-icf|icfexternal_career_site-r2603522",
-  "company_name": "ICF",
-  "title": "2027 Summer Intern, Software Engineer (Reston, VA)",
-  "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Engineer--Reston--VA-_R2603522?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Reston, VA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791936000,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Summer 2027"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "icf|icfexternal_career_site",
-   "job_id": "R2603522"
-  },
-  "understudy_url": "https://understudy.live/apply/14365326?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-rockwellautomation|external_rockwell_automation-r26-6638-1",
-  "company_name": "Rockwell Automation",
-  "title": "Co-op, Hardware Development Engineer (Jan - July 2027)",
-  "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638-1?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Mayfield Heights, Ohio, United States"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791936000,
-  "date_updated": 1792503308,
-  "category": "hardware",
-  "terms": [
-   "Summer 2027"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "rockwellautomation|External_Rockwell_Automation",
-   "job_id": "R26-6638-1"
-  },
-  "understudy_url": "https://understudy.live/apply/14365277?utm_source=ghlist&utm_medium=row"
- },
- {
   "id": "workday-gevernova|only_confidential_executive_recruiting-r5054822-1",
   "company_name": "GE Vernova",
   "title": "AI Post-Training and Model Alignment Intern",
@@ -8405,7 +8518,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791936000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -8419,6 +8532,30 @@
   "understudy_url": "https://understudy.live/apply/14269290?utm_source=ghlist&utm_medium=row"
  },
  {
+  "id": "workday-rockwellautomation|external_rockwell_automation-r26-6638-1",
+  "company_name": "Rockwell Automation",
+  "title": "Co-op, Hardware Development Engineer (Jan - July 2027)",
+  "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638-1?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Mayfield Heights, Ohio, United States"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1791936000,
+  "date_updated": 1792526467,
+  "category": "hardware",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "source": {
+   "ats": "workday",
+   "board": "rockwellautomation|External_Rockwell_Automation",
+   "job_id": "R26-6638-1"
+  },
+  "understudy_url": "https://understudy.live/apply/14365277?utm_source=ghlist&utm_medium=row"
+ },
+ {
   "id": "workday-alliance|nissanjobs-r00214268",
   "company_name": "Alliance",
   "title": "Machine Learning Research Intern - Spring 2027 - Santa Clara, CA",
@@ -8429,7 +8566,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791936000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -8453,7 +8590,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791936000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -8467,17 +8604,17 @@
   "understudy_url": "https://understudy.live/apply/14365312?utm_source=ghlist&utm_medium=row"
  },
  {
-  "id": "workday-icf|icfexternal_career_site-r2603518",
+  "id": "workday-icf|icfexternal_career_site-r2603521",
   "company_name": "ICF",
   "title": "2027 Summer Intern, AI Engineer (Reston, VA)",
-  "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603518?utm_source=understudy&ref=understudy-list",
+  "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603521?utm_source=understudy&ref=understudy-list",
   "locations": [
    "Reston, VA"
   ],
   "active": true,
   "is_visible": true,
   "date_posted": 1791936000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -8486,9 +8623,9 @@
   "source": {
    "ats": "workday",
    "board": "icf|icfexternal_career_site",
-   "job_id": "R2603518"
+   "job_id": "R2603521"
   },
-  "understudy_url": "https://understudy.live/apply/14365327?utm_source=ghlist&utm_medium=row"
+  "understudy_url": "https://understudy.live/apply/14365328?utm_source=ghlist&utm_medium=row"
  },
  {
   "id": "workday-gevernova|only_confidential_executive_recruiting-r5054821-1",
@@ -8501,7 +8638,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791936000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -8525,7 +8662,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791936000,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -8549,7 +8686,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791935155,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -8574,7 +8711,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791935104,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -8598,7 +8735,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791933697,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -8622,7 +8759,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791933022,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -8646,7 +8783,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791932585,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Unspecified"
@@ -8670,7 +8807,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791932559,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -8694,7 +8831,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791932556,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Unspecified"
@@ -8718,7 +8855,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791932555,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -8740,7 +8877,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791932519,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -8764,7 +8901,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791932377,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -8788,7 +8925,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791931414,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -8812,7 +8949,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791929466,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -8836,7 +8973,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791929442,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -8863,7 +9000,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791929238,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -8887,7 +9024,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791929235,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -8914,7 +9051,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791929101,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -8938,7 +9075,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791928801,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -8962,7 +9099,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791928801,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -8986,7 +9123,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791928801,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -9010,7 +9147,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791928801,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -9034,7 +9171,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791928801,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "swe",
   "terms": [
    "Summer 2027"
@@ -9058,7 +9195,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791928801,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "data",
   "terms": [
    "Summer 2027"
@@ -9082,7 +9219,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791928801,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -9106,7 +9243,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1791928801,
-  "date_updated": 1792503308,
+  "date_updated": 1792526467,
   "category": "hardware",
   "terms": [
    "Summer 2027"
@@ -9118,990 +9255,5 @@
    "job_id": "8885631002"
   },
   "understudy_url": "https://understudy.live/apply/14158476?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "ashby-armadin-571d7673-ce4b-414c-b736-38297d1d2b8b",
-  "company_name": "Armadin",
-  "title": "Summer 2027 Internship -  Member of Technical Staff -  Frontend",
-  "url": "https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Palo Alto"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791921080,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Summer 2027"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "ashby",
-   "board": "armadin",
-   "job_id": "571d7673-ce4b-414c-b736-38297d1d2b8b"
-  },
-  "understudy_url": "https://understudy.live/apply/14059121?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "jibe-careers.trccompanies.com-27074",
-  "company_name": "TRC Companies",
-  "title": "Data Science Intern",
-  "url": "https://careers.trccompanies.com/jobs/27074?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Exton, Pennsylvania"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791919380,
-  "date_updated": 1792503308,
-  "category": "data",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "jibe",
-   "board": "careers.trccompanies.com",
-   "job_id": "27074"
-  },
-  "understudy_url": "https://understudy.live/apply/14051300?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "eightfold-apply.careers.microsoft.com-1970393557040333",
-  "company_name": "Microsoft",
-  "title": "Research Intern - Machine Learning for Biology and Healthcare",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557040333?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Cambridge, MA, US"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791917916,
-  "date_updated": 1792503308,
-  "category": "data",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "eightfold",
-   "board": "apply.careers.microsoft.com",
-   "job_id": "1970393557040333"
-  },
-  "understudy_url": "https://understudy.live/apply/14194750?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "jibe-careers.medpace.com-13059",
-  "company_name": "Medpace",
-  "title": "Python Developer Internship - Summer 2027",
-  "url": "https://careers.medpace.com/jobs/13059?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Cincinnati, Ohio"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791917880,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Summer 2027"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "jibe",
-   "board": "careers.medpace.com",
-   "job_id": "13059"
-  },
-  "understudy_url": "https://understudy.live/apply/14079922?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "greenhouse-acadianassetmanagementllc-4720681006",
-  "company_name": "Acadian Asset Management LLC",
-  "title": "Quantitative Investment Internship Program - Summer 2027",
-  "url": "https://www.acadian-asset.com/careers/open-positions?gh_jid=4720681006&utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Boston, Massachusetts, United States"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791917275,
-  "date_updated": 1792503308,
-  "category": "quant",
-  "terms": [
-   "Summer 2027"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "greenhouse",
-   "board": "acadianassetmanagementllc",
-   "job_id": "4720681006"
-  },
-  "understudy_url": "https://understudy.live/apply/14063094?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "greenhouse-asteraearlycareer2027-4743360005",
-  "company_name": "Astera Labs",
-  "title": "AMS Design Verification Engineer Intern",
-  "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743360005?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "San Jose, CA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791914109,
-  "date_updated": 1792503308,
-  "category": "hardware",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "greenhouse",
-   "board": "asteraearlycareer2027",
-   "job_id": "4743360005"
-  },
-  "understudy_url": "https://understudy.live/apply/14041599?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "greenhouse-muonspace-5256288007",
-  "company_name": "Muon Space",
-  "title": "Spacecraft Test Engineering Intern (Summer 2027)",
-  "url": "https://job-boards.greenhouse.io/muonspace/jobs/5256288007?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "San Jose, CA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791914077,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Summer 2027"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "greenhouse",
-   "board": "muonspace",
-   "job_id": "5256288007"
-  },
-  "understudy_url": "https://understudy.live/apply/14055344?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "ashby-skydio-79fdda46-4ff5-42c7-b208-55f2084cdb8c",
-  "company_name": "Skydio",
-  "title": "Software Engineer Intern - Summer 2027",
-  "url": "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "San Mateo, California, United States"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791913886,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Summer 2027"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "ashby",
-   "board": "skydio",
-   "job_id": "79fdda46-4ff5-42c7-b208-55f2084cdb8c"
-  },
-  "understudy_url": "https://understudy.live/apply/14354549?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "ashby-skydio-8994767e-fd53-4ca2-b0ef-fe0923c1e260",
-  "company_name": "Skydio",
-  "title": "Embedded Software Engineer Intern - Summer 2027",
-  "url": "https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "San Mateo, California, United States"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791913599,
-  "date_updated": 1792503308,
-  "category": "hardware",
-  "terms": [
-   "Summer 2027"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "ashby",
-   "board": "skydio",
-   "job_id": "8994767e-fd53-4ca2-b0ef-fe0923c1e260"
-  },
-  "understudy_url": "https://understudy.live/apply/14038962?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-motorolasolutions|careers-r69679",
-  "company_name": "Motorola Solutions",
-  "title": "Electrical Engineer / PCB Designer Intern - Summer 2027",
-  "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineer---PCB-Designer-Intern---Summer-2027_R69679?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Plantation, FL"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791913553,
-  "date_updated": 1792503308,
-  "category": "hardware",
-  "terms": [
-   "Summer 2027"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "motorolasolutions|Careers",
-   "job_id": "R69679"
-  },
-  "understudy_url": "https://understudy.live/apply/14030708?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-rb|frs-r-0000033624",
-  "company_name": "The Federal Reserve System",
-  "title": "2027 Intern - System IT (Credit Risk Management)",
-  "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---System-IT--Credit-Risk-Management-_R-0000033624?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Dallas, TX"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791912745,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Summer 2027"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "rb|FRS",
-   "job_id": "R-0000033624"
-  },
-  "understudy_url": "https://understudy.live/apply/14026985?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-aero|external-r016531",
-  "company_name": "AERO",
-  "title": "2027 Power and Analog Circuit Engineering Graduate Intern",
-  "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Power-and-Analog-Circuit-Engineering-Graduate-Intern_R016531?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "El Segundo, CA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791912640,
-  "date_updated": 1792503308,
-  "category": "hardware",
-  "terms": [
-   "Summer 2027"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "aero|external",
-   "job_id": "R016531"
-  },
-  "understudy_url": "https://understudy.live/apply/14021036?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-aero|external-r016530",
-  "company_name": "AERO",
-  "title": "2027 Power Systems Engineering Undergraduate Intern",
-  "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Undergraduate-Intern_R016530?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "El Segundo, CA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791912640,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Summer 2027"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "aero|external",
-   "job_id": "R016530"
-  },
-  "understudy_url": "https://understudy.live/apply/14021034?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-aero|external-r016533",
-  "company_name": "AERO",
-  "title": "2027 Power and Analog Circuit Engineering Undergraduate Intern",
-  "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Power-and-Analog-Circuit-Engineering-Undergraduate-Intern_R016533?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "El Segundo, CA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791912640,
-  "date_updated": 1792503308,
-  "category": "hardware",
-  "terms": [
-   "Summer 2027"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "aero|external",
-   "job_id": "R016533"
-  },
-  "understudy_url": "https://understudy.live/apply/14021035?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-aero|external-r016527",
-  "company_name": "AERO",
-  "title": "2027 Power Systems Engineering Graduate Intern",
-  "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Graduate-Intern_R016527?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "El Segundo, CA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791912640,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Summer 2027"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "aero|external",
-   "job_id": "R016527"
-  },
-  "understudy_url": "https://understudy.live/apply/14021037?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "greenhouse-spotinc-4721549006",
-  "company_name": "Spot Inc.",
-  "title": "IT Support Internship",
-  "url": "https://spotinc.com/careers/applynow/?gh_jid=4721549006&utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Indianapolis, Indiana, United States"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791911725,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "greenhouse",
-   "board": "spotinc",
-   "job_id": "4721549006"
-  },
-  "understudy_url": "https://understudy.live/apply/14140679?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-cai|computer_aid-r8523",
-  "company_name": "CAI",
-  "title": "Programmer Intern",
-  "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Programmer-Intern_R8523?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "PA-CLIENT-STATE"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791909152,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "cai|computer_aid",
-   "job_id": "R8523"
-  },
-  "understudy_url": "https://understudy.live/apply/13996606?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-my7elevenhr|careers-6022",
-  "company_name": "My7elevenhr",
-  "title": "Fuel Pricing Data Scientist Intern",
-  "url": "https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/Fuel-Pricing-Data-Scientist-Intern_R26_6022?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "SSC Irving TX"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791909114,
-  "date_updated": 1792503308,
-  "category": "data",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "my7elevenhr|careers",
-   "job_id": "6022"
-  },
-  "understudy_url": "https://understudy.live/apply/13995198?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "greenhouse-figma-6219995004",
-  "company_name": "Figma",
-  "title": "PhD Intern, Software Engineer - Graphics (2027)",
-  "url": "https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004&utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "San Francisco, CA • New York, NY"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791908277,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Summer 2027"
-  ],
-  "degrees": [
-   "Master's",
-   "PhD"
-  ],
-  "source": {
-   "ats": "greenhouse",
-   "board": "figma",
-   "job_id": "6219995004"
-  },
-  "understudy_url": "https://understudy.live/apply/14004305?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "greenhouse-gallup-4449991009",
-  "company_name": "Gallup",
-  "title": "Data Engineering Intern — Summer 2027",
-  "url": "https://job-boards.greenhouse.io/gallup/jobs/4449991009?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "San Francisco"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791908104,
-  "date_updated": 1792503308,
-  "category": "data",
-  "terms": [
-   "Summer 2027"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "greenhouse",
-   "board": "gallup",
-   "job_id": "4449991009"
-  },
-  "understudy_url": "https://understudy.live/apply/14159356?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-caci|external-333048",
-  "company_name": "CACI",
-  "title": "Systems Engineer Intern - Summer 2027",
-  "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Systems-Engineer-Intern---Summer-2027_333048?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Ashburn, VA, US"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791907299,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Summer 2027"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "caci|external",
-   "job_id": "333048"
-  },
-  "understudy_url": "https://understudy.live/apply/13976661?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-kla|ur-2641817-2",
-  "company_name": "KLA",
-  "title": "Software Engineer Intern - AI",
-  "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817-2?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Ann Arbor, MI"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791907267,
-  "date_updated": 1792503308,
-  "category": "data",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "kla|UR",
-   "job_id": "2641817-2"
-  },
-  "understudy_url": "https://understudy.live/apply/13975515?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-kla|ur-2641821-2",
-  "company_name": "KLA",
-  "title": "Software Engineering Intern",
-  "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821-2?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Ann Arbor, MI"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791907267,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "kla|UR",
-   "job_id": "2641821-2"
-  },
-  "understudy_url": "https://understudy.live/apply/13975516?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-parsons|search-r186298",
-  "company_name": "Parsons",
-  "title": "Electrical Engineering Intern - Summer 2027",
-  "url": "https://parsons.wd5.myworkdayjobs.com/search/job/US---NY-New-York/Electrical-Engineering-Intern---Summer-2027_R186298?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "US NY New York"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791906336,
-  "date_updated": 1792503308,
-  "category": "hardware",
-  "terms": [
-   "Summer 2027"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "parsons|search",
-   "job_id": "R186298"
-  },
-  "understudy_url": "https://understudy.live/apply/13967333?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-kla|search-2641817",
-  "company_name": "KLA Corporation",
-  "title": "Software Engineer Intern - AI",
-  "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Ann Arbor, MI"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791905466,
-  "date_updated": 1792503308,
-  "category": "data",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "kla|search",
-   "job_id": "2641817"
-  },
-  "understudy_url": "https://understudy.live/apply/13963993?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-kla|search-2641821",
-  "company_name": "KLA Corporation",
-  "title": "Software Engineering Intern",
-  "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Ann Arbor, MI"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791905466,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "kla|search",
-   "job_id": "2641821"
-  },
-  "understudy_url": "https://understudy.live/apply/13963994?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "jibe-jobs.keysight.com-54389",
-  "company_name": "Keysight Technologies",
-  "title": "R&D Hardware Design Engineer, Intern",
-  "url": "https://jobs.keysight.com/jobs/54389?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Santa Rosa, California"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791904980,
-  "date_updated": 1792503308,
-  "category": "hardware",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "jibe",
-   "board": "jobs.keysight.com",
-   "job_id": "54389"
-  },
-  "understudy_url": "https://understudy.live/apply/14013023?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-draper|draper_careers-jr003021",
-  "company_name": "Draper",
-  "title": "Classified Cybersecurity/IT Internship (Summer 2027)",
-  "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Cambridge, MA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791904615,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Summer 2027"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "draper|Draper_Careers",
-   "job_id": "JR003021"
-  },
-  "understudy_url": "https://understudy.live/apply/13960734?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "eightfold-bostonscientific-563602813542900",
-  "company_name": "Boston Scientific",
-  "title": "R&D Software Engineer Intern",
-  "url": "https://bostonscientific.eightfold.ai/careers/job/563602813542900?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Arden Hills, MN, US"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791904550,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "eightfold",
-   "board": "bostonscientific",
-   "job_id": "563602813542900"
-  },
-  "understudy_url": "https://understudy.live/apply/13963278?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-adient|external-r-29529",
-  "company_name": "Adient",
-  "title": "IT Intern",
-  "url": "https://adient.wd3.myworkdayjobs.com/external/job/Plymouth-MI/IT-Intern_R-29529?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Plymouth, MI"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791903683,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "adient|external",
-   "job_id": "R-29529"
-  },
-  "understudy_url": "https://understudy.live/apply/13947391?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-my7elevenhr|careers-5975",
-  "company_name": "My7elevenhr",
-  "title": "IT Field Manager Intern",
-  "url": "https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/IT-Field-Manager-Intern_R26_5975?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "SSC Irving TX"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791903643,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "my7elevenhr|careers",
-   "job_id": "5975"
-  },
-  "understudy_url": "https://understudy.live/apply/13945943?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "jibe-careers.rivian.com-34370",
-  "company_name": "Rivian",
-  "title": "UIUC Research Park Intern - Low Voltage Electronics",
-  "url": "https://careers.rivian.com/jobs/34370?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Champaign, Illinois"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791903240,
-  "date_updated": 1792503308,
-  "category": "hardware",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "jibe",
-   "board": "careers.rivian.com",
-   "job_id": "34370"
-  },
-  "understudy_url": "https://understudy.live/apply/14013230?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-ttc|toro_external_careers-jr17609",
-  "company_name": "The Toro Company",
-  "title": "IBP ISC Data Management Intern - The Toro Company",
-  "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/IBP-ISC-Data-Management-Intern---The-Toro-Company_JR17609?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Bloomington, MN"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791901835,
-  "date_updated": 1792503308,
-  "category": "data",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "ttc|Toro_External_Careers",
-   "job_id": "JR17609"
-  },
-  "understudy_url": "https://understudy.live/apply/13934990?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-borgwarner|borgwarner_careers-r2026-4037",
-  "company_name": "BorgWarner",
-  "title": "IT Service Desk Intern (Year-Round)",
-  "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/IT-Service-Desk-Intern--Year-Round-_R2026-4037?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Auburn Hills - Michigan - USA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791901832,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "borgwarner|BorgWarner_Careers",
-   "job_id": "R2026-4037"
-  },
-  "understudy_url": "https://understudy.live/apply/13934964?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "icims-americas-cookmedical.icims.com-19427",
-  "company_name": "Cook Group",
-  "title": "Intern, Artificial Intelligence & Innovation",
-  "url": "https://americas-cookmedical.icims.com/jobs/19427/intern%2c-artificial-intelligence-%26-innovation/job?utm_source=understudy&ref=understudy-list",
-  "locations": [],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791901260,
-  "date_updated": 1792503308,
-  "category": "data",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "icims",
-   "board": "americas-cookmedical.icims.com",
-   "job_id": "19427"
-  },
-  "understudy_url": "https://understudy.live/apply/14187420?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-jainglobal|externalsite-jr100608",
-  "company_name": "Jainglobal",
-  "title": "Quantitative Developer Intern (Summer 2027 - New York)",
-  "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "New York, New York"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791900925,
-  "date_updated": 1792503308,
-  "category": "quant",
-  "terms": [
-   "Summer 2027"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "jainglobal|ExternalSite",
-   "job_id": "JR100608"
-  },
-  "understudy_url": "https://understudy.live/apply/13925024?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-ttc|toro_external_careers-jr17608",
-  "company_name": "The Toro Company",
-  "title": "IT Business Analyst Intern - Ditch Witch",
-  "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Perry, OK"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791900601,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "ttc|Toro_External_Careers",
-   "job_id": "JR17608"
-  },
-  "understudy_url": "https://understudy.live/apply/13924930?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-pbv|external-r-2026-4634",
-  "company_name": "PBV",
-  "title": "Business Systems Analyst Intern",
-  "url": "https://pbv.wd503.myworkdayjobs.com/external/job/Raleigh-NC/Business-Systems-Analyst-Intern_R-2026-4634?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Raleigh, NC"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791900499,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "pbv|external",
-   "job_id": "R-2026-4634"
-  },
-  "understudy_url": "https://understudy.live/apply/13922479?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-fortrea|fortrea-264963",
-  "company_name": "Fortrea",
-  "title": "Apprentice -  IT Product Management (Remote)",
-  "url": "https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Apprentice-IT-Product-Management--Sales-and-Marketing-_264963?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "2 Locations"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791900399,
-  "date_updated": 1792503308,
-  "category": "pm",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "workday",
-   "board": "fortrea|fortrea",
-   "job_id": "264963"
-  },
-  "understudy_url": "https://understudy.live/apply/13920666?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "greenhouse-mirakl-6222277004",
-  "company_name": "Mirakl",
-  "title": "AI Analyst Co-op",
-  "url": "https://job-boards.greenhouse.io/mirakl/jobs/6222277004?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Boston, Massachusetts, United States"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791900030,
-  "date_updated": 1792503308,
-  "category": "data",
-  "terms": [
-   "Unspecified"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "greenhouse",
-   "board": "mirakl",
-   "job_id": "6222277004"
-  },
-  "understudy_url": "https://understudy.live/apply/14371097?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "greenhouse-capitalfarmcredit-5449253008",
-  "company_name": "Capital Farm Credit",
-  "title": "Information Technology Intern – Summer 2027",
-  "url": "https://job-boards.greenhouse.io/capitalfarmcredit/jobs/5449253008?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "College Station, Texas"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1791899382,
-  "date_updated": 1792503308,
-  "category": "swe",
-  "terms": [
-   "Summer 2027"
-  ],
-  "degrees": [],
-  "source": {
-   "ats": "greenhouse",
-   "board": "capitalfarmcredit",
-   "job_id": "5449253008"
-  },
-  "understudy_url": "https://understudy.live/apply/14140466?utm_source=ghlist&utm_medium=row"
  }
 ]
