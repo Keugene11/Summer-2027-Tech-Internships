@@ -1,6 +1,6 @@
 # Off-Season Internships
 
-7 internship and co-op roles whose posting names an intake other than Summer 2027 — fall, winter, spring or a January start.
+6 internship and co-op roles whose posting names an intake other than Summer 2027 — fall, winter, spring or a January start.
 
 [← Back to the Summer 2027 list](./README.md)
 
@@ -15,6 +15,5 @@
 <tr><td><strong>Booz Allen</strong></td><td>University – Summer 27, Cybersecurity Analyst Intern 🇺🇸</td><td>McLean, VA</td><td><div align="center"><a href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Cybersecurity-Analyst-Intern_R0248214?utm_source=understudy&amp;ref=understudy-list"><img src="https://understudy.live/lists/apply.svg" width="52" alt="Apply"></a> <a href="https://understudy.live/apply/23756532?utm_source=ghlist&amp;utm_medium=row"><img src="https://understudy.live/lists/auto-apply.svg" width="78" alt="Auto-apply with Understudy"></a></div></td><td>5d</td></tr>
 <tr><td><strong>Valleychildrens</strong></td><td>Student Intern - IT Security (Spring)</td><td>Madera, CA</td><td><div align="center"><a href="https://valleychildrens.wd12.myworkdayjobs.com/vch_external/job/Madera-CA/Student-Intern---IT-Security--Spring-_JR201370?utm_source=understudy&amp;ref=understudy-list"><img src="https://understudy.live/lists/apply.svg" width="52" alt="Apply"></a> <a href="https://understudy.live/apply/23378319?utm_source=ghlist&amp;utm_medium=row"><img src="https://understudy.live/lists/auto-apply.svg" width="78" alt="Auto-apply with Understudy"></a></div></td><td>6d</td></tr>
 <tr><td>↳</td><td>Student Intern - Data Analytics (Spring)</td><td>Madera, CA</td><td><div align="center"><a href="https://valleychildrens.wd12.myworkdayjobs.com/vch_external/job/Madera-CA/Student-Intern---Data-Analytics--Spring-_JR201362?utm_source=understudy&amp;ref=understudy-list"><img src="https://understudy.live/lists/apply.svg" width="52" alt="Apply"></a> <a href="https://understudy.live/apply/23344730?utm_source=ghlist&amp;utm_medium=row"><img src="https://understudy.live/lists/auto-apply.svg" width="78" alt="Auto-apply with Understudy"></a></div></td><td>6d</td></tr>
-<tr><td><strong>AECOM</strong></td><td>Internship and Entry-Level Graduate Opportunities - California State University, Sacramento Fall 2026 Engineering &amp; Computer Science Career Fair</td><td>Sacramento, CA, United States</td><td><div align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000159662579?utm_source=understudy&amp;ref=understudy-list"><img src="https://understudy.live/lists/apply.svg" width="52" alt="Apply"></a> <a href="https://understudy.live/apply/22864954?utm_source=ghlist&amp;utm_medium=row"><img src="https://understudy.live/lists/auto-apply.svg" width="78" alt="Auto-apply with Understudy"></a></div></td><td>6d</td></tr>
 </tbody>
 </table>
