@@ -1,6 +1,6 @@
 # Off-Season Internships
 
-3 internship and co-op roles whose posting names an intake other than Summer 2027 — fall, winter, spring or a January start.
+1 internship and co-op roles whose posting names an intake other than Summer 2027 — fall, winter, spring or a January start.
 
 [← Back to the Summer 2027 list](./README.md)
 
@@ -9,8 +9,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>Kira</strong></td><td>Software Engineering Intern (Winter '27)</td><td>New York or San Francisco</td><td><div align="center"><a href="https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe?utm_source=understudy&amp;ref=understudy-list"><img src="https://understudy.live/lists/apply.svg" width="52" alt="Apply"></a> <a href="https://understudy.live/apply/30302378?utm_source=ghlist&amp;utm_medium=row"><img src="https://understudy.live/lists/auto-apply.svg" width="78" alt="Auto-apply with Understudy"></a></div></td><td>0d</td></tr>
-<tr><td><strong>RTX</strong></td><td>Digital Hardware Design Engineer Co-op (Winter/Spring)(Onsite)</td><td>US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130</td><td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Spring-Summer-_01871518-1?utm_source=understudy&amp;ref=understudy-list"><img src="https://understudy.live/lists/apply.svg" width="52" alt="Apply"></a> <a href="https://understudy.live/apply/27874506?utm_source=ghlist&amp;utm_medium=row"><img src="https://understudy.live/lists/auto-apply.svg" width="78" alt="Auto-apply with Understudy"></a></div></td><td>6d</td></tr>
-<tr><td><strong>Jabil</strong></td><td>IT Programmer Analyst Spring Co-Op</td><td>Florence, KY</td><td><div align="center"><a href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/IT-Programmer-Analyst-Spring-Co-Op_J2471333?utm_source=understudy&amp;ref=understudy-list"><img src="https://understudy.live/lists/apply.svg" width="52" alt="Apply"></a> <a href="https://understudy.live/apply/27815023?utm_source=ghlist&amp;utm_medium=row"><img src="https://understudy.live/lists/auto-apply.svg" width="78" alt="Auto-apply with Understudy"></a></div></td><td>6d</td></tr>
+<tr><td><strong>Kira</strong></td><td>Software Engineering Intern (Winter '27)</td><td>New York or San Francisco</td><td><div align="center"><a href="https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe?utm_source=understudy&amp;ref=understudy-list"><img src="https://understudy.live/lists/apply.svg" width="52" alt="Apply"></a> <a href="https://understudy.live/apply/30302378?utm_source=ghlist&amp;utm_medium=row"><img src="https://understudy.live/lists/auto-apply.svg" width="78" alt="Auto-apply with Understudy"></a></div></td><td>1d</td></tr>
 </tbody>
 </table>
